@@ -1,0 +1,93 @@
+@font-face{
+	font-family: HelveticaNeueUltraLight;
+	src: url('font/HelveticaNeueLTPro-UltLt.otf');
+}
+@font-face{
+	font-family: HelveticaNeueLight;
+	src: url('font/HelveticaNeueLTPro-Lt.otf');
+	font-weight: bold;
+}
+body{
+	margin: 0;
+	background-color: white;
+	font-family: myfont;
+}
+
+.container{
+	text-align: center;
+	width: 100%;
+	margin-bottom: 30px;
+
+	height: 35px;
+	border-bottom: 3px ridge white;
+	box-shadow: 0px 3px 15px #414141;
+	position: fixed;
+	opacity: 0.9;
+	background-image: -webkit-gradient(
+	linear,
+	left bottom,
+	left top,
+	color-stop(0.35, #BAB8BA),
+	color-stop(0.85, #969496)
+	);
+	background-image: -o-linear-gradient(top, #BAB8BA 35%, #969496 85%);
+	background-image: -moz-linear-gradient(top, #BAB8BA 35%, #969496 85%);
+	background-image: -webkit-linear-gradient(top, #BAB8BA 35%, #969496 85%);
+	background-image: -ms-linear-gradient(top, #BAB8BA 35%, #969496 85%);
+	background-image: linear-gradient(to top, #BAB8BA 35%, #969496 85%);
+}
+
+#menubar{
+	list-style: none;
+	margin: 0 auto;
+	padding: 0;
+	height: 35px;
+}
+
+#menubar li {
+	display: inline-block;
+	height:35px;
+	width: 150px;
+	text-align: center;
+	border-right: 2px groove #F0F0F0;
+	vertical-align: middle;
+/* 	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
+
+}
+
+#menubar li a{
+	display: block;
+	padding: 10px;
+	text-decoration: none;
+	color: white;
+	font-family: HelveticaNeueUltraLight;
+	font-size: 18px;
+	height: 100%;
+}
+
+#menubar #name a{
+	padding: 8px; 
+	font-family: HelveticaNeueLight;
+	font-size: 23px;
+	color: black;
+}
+
+#menubar #name a:hover{
+	color: white;
+}
+
+.footer{
+	position: absolute;
+	bottom: 0px;
+	font-size: 15px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	border-top: 2px solid grey;
+	text-align: center;
+	width: 100%;
+}
+
+.footer a{
+	text-decoration: none;
+	color: black;
+}
