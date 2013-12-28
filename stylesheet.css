@@ -1,29 +1,30 @@
 @font-face{
 	font-family: HelveticaNeueUltraLight;
-	src: url('font/HelveticaNeueLTPro-UltLt.otf');
+	src: url('font/HelveticaNeueLTPro-Lt.otf');
 }
 @font-face{
-	font-family: HelveticaNeueLight;
-	src: url('font/HelveticaNeueLTPro-Lt.otf');
+	font-family: Signika;
+	src: url('font/Signika-Semibold.otf');
 	font-weight: bold;
 }
 body{
 	margin: 0;
 	background-color: white;
-	font-family: myfont;
 }
 
-.container{
-	text-align: center;
-	width: 100%;
-	margin-bottom: 30px;
 
-	height: 35px;
+.container{
+	width: 100%;
+	height: 30px;
 	border-bottom: 3px ridge white;
 	box-shadow: 0px 3px 15px #414141;
-	position: fixed;
 	opacity: 0.9;
-	background-image: -webkit-gradient(
+	filter:alpha(opacity=90);
+	background-color: white;
+	text-align: center;
+	background: white;
+
+background-image: -webkit-gradient(
 	linear,
 	left bottom,
 	left top,
@@ -35,46 +36,110 @@ body{
 	background-image: -webkit-linear-gradient(top, #BAB8BA 35%, #969496 85%);
 	background-image: -ms-linear-gradient(top, #BAB8BA 35%, #969496 85%);
 	background-image: linear-gradient(to top, #BAB8BA 35%, #969496 85%);
+
 }
 
+
 #menubar{
+
+	position: absolute;
+	width: 85%;
+	left:8%;
 	list-style: none;
 	margin: 0 auto;
 	padding: 0;
-	height: 35px;
+	height: 30px;
+	overflow: hidden;
+}
+
+#menubar2{
+
+	position: absolute;
+	width: 85%;
+	left:8%;
+	list-style: none;
+	margin: 0 auto;
+	padding: 0;
+	height: 30px;
+	overflow: hidden;
+
 }
 
 #menubar li {
-	display: inline-block;
-	height:35px;
-	width: 150px;
+	display: table-cell;
+	height:30px;
+	width: 12%;
 	text-align: center;
-	border-right: 2px groove #F0F0F0;
 	vertical-align: middle;
-/* 	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
+	border-right: 2px groove #F0F0F0;
+}
 
+#menubar2 li {
+	display: table-cell;
+	height:30px;
+	width: 12%;
+	text-align: center;
+	vertical-align: middle;
+	border-right: 2px groove #F0F0F0;
 }
 
 #menubar li a{
 	display: block;
-	padding: 10px;
+background-image: -webkit-gradient(
+	linear,
+	left bottom,
+	left top,
+	color-stop(0.35, #BAB8BA),
+	color-stop(0.85, #969496)
+	);
+	background-image: -o-linear-gradient(top, #BAB8BA 35%, #969496 85%);
+	background-image: -moz-linear-gradient(top, #BAB8BA 35%, #969496 85%);
+	background-image: -webkit-linear-gradient(top, #BAB8BA 35%, #969496 85%);
+	background-image: -ms-linear-gradient(top, #BAB8BA 35%, #969496 85%);
+	background-image: linear-gradient(to top, #BAB8BA 35%, #969496 85%);
 	text-decoration: none;
 	color: white;
 	font-family: HelveticaNeueUltraLight;
 	font-size: 18px;
+	vertical-align: middle;
 	height: 100%;
+	transition: 0.25s;
+	padding: 6px;
 }
 
-#menubar #name a{
-	padding: 8px; 
-	font-family: HelveticaNeueLight;
+#menubar2 li a{
+	display: block;
+	background-color: white;
+	text-decoration: none;
+	color: black;
+	font-family: HelveticaNeueUltraLight;
+	font-size: 18px;
+	vertical-align: middle;
+	height: 100%;
+	padding: 6px;
+}
+
+#menubar #name{
+	font-family: Signika;
 	font-size: 23px;
 	color: black;
+	font-weight: 500;
 }
 
-#menubar #name a:hover{
-	color: white;
+#menubar2 #name{
+	font-family: Signika;
+	font-size: 23px;
+	color: black;
+	font-weight: 500;
+	opacity: 0;
 }
+
+#menubar li a:hover{
+	transition: 0.25s;
+	transform: translate(0px, -35px);
+	-webkit-transform: translate(0px, -35px);
+}
+
 
 .footer{
 	position: absolute;
