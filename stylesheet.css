@@ -1,18 +1,23 @@
 @font-face{
-	font-family: HelveticaNeueUltraLight;
+	font-family: Helvetica;
 	src: url('font/HelveticaNeueLTPro-Lt.otf');
 }
 @font-face{
-	font-family: Signika;
-	src: url('font/Signika-Semibold.otf');
+	font-family: Helvetica;
+	src: url('font/HelveticaNeueLTPro-Ex.otf');
 	font-weight: bold;
 }
-body{
-	margin: 0;
+
+html, body{
+	margin: 0 auto;
 	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	height: 100%;
+	padding: 0;
 }
 
-.container{
+.navbar{
 	position: fixed;
 	width: 100%;
 	height: 30px;
@@ -36,29 +41,29 @@ background-image: -webkit-gradient(
 	background-image: -webkit-linear-gradient(top, #BAB8BA 35%, #969496 85%);
 	background-image: -ms-linear-gradient(top, #BAB8BA 35%, #969496 85%);
 	background-image: linear-gradient(to top, #BAB8BA 35%, #969496 85%);
-
+	z-index: 10;
 }
-
 
 
 #menubar{
 	position: absolute;
-	width: 85%;
-	left:8%;
+	left: 0;
+	right: 0;
+	width: 906px;
 	list-style: none;
-	margin: 0 auto;
+	margin: auto;
 	padding: 0;
 	height: 30px;
 	overflow: hidden;
 }
 
 #menubar2{
-
+	left: 0;
+	right: 0;
 	position: absolute;
-	width: 85%;
-	left:8%;
+	width: 906px;
 	list-style: none;
-	margin: 0 auto;
+	margin: auto;
 	padding: 0;
 	height: 30px;
 	overflow: hidden;
@@ -72,6 +77,7 @@ background-image: -webkit-gradient(
 	text-align: center;
 	vertical-align: middle;
 	border-right: 2px groove #F0F0F0;
+
 }
 
 #menubar2 li {
@@ -83,9 +89,19 @@ background-image: -webkit-gradient(
 	border-right: 2px groove #F0F0F0;
 }
 
+#first{
+	border-left: 2px groove #F0F0F0;
+}
+
 #menubar li a{
 	text-decoration: none;
 }
+
+#menubar2 li a{
+	text-decoration: underline;
+	color: black;
+}
+
 
 #menubar li a div{
 	display: block;
@@ -103,7 +119,7 @@ background-image: -webkit-gradient(
 	background-image: linear-gradient(to top, #BAB8BA 35%, #969496 85%);
 	text-decoration: none;
 	color: white;
-	font-family: HelveticaNeueUltraLight;
+	font-family: Helvetica;
 	font-size: 18px;
 	vertical-align: middle;
 	height: 100%;
@@ -115,26 +131,11 @@ background-image: -webkit-gradient(
 	display: block;
 	background-color: white;
 	color: black;
-	font-family: HelveticaNeueUltraLight;
+	font-family: Helvetica;
 	font-size: 18px;
 	vertical-align: middle;
 	height: 100%;
 	padding: 6px;
-}
-
-#menubar #name{
-	font-family: Signika;
-	font-size: 23px;
-	color: black;
-	font-weight: 500;
-}
-
-#menubar2 #name{
-	font-family: Signika;
-	font-size: 23px;
-	color: black;
-	font-weight: 500;
-	opacity: 0;
 }
 
 #menubar li a:hover div{
@@ -142,18 +143,220 @@ background-image: -webkit-gradient(
 	transform: translate(0px, -35px);
 	-webkit-transform: translate(0px, -35px);
 }
+	
+h3, #experiences img{
+	margin: 10px 0px 10px;
+}
 
+h3{
+	font-family: Helvetica;
+	font-size: 22px;
+	text-align: center;
+	color: #8bdff4;
+}
+
+.main{
+	position: relative;
+	left:0px;
+	right:0px;	
+	width: 900px;
+	min-height: 90%;
+
+	height: auto !important;
+	margin: 0 auto -20px;
+}
+
+.main > div{
+	position: relative;
+	height: auto;
+	width: 100%;
+	padding-top: 50px;
+}
+.main header{
+	color: #3ad8ff;
+	text-align: center;
+	font-size: 30px;
+	font-family: Helvetica;
+	font-weight: bold;
+	margin-bottom: 20px;
+	padding:20px;
+	border-bottom: 1px solid #c6f4ff;
+	width: auto;
+}
+
+.text{
+	transition: 0.2s;
+	width: 200px;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+}
+
+#about .text{
+	width: 250px;
+	font-size: 36px;
+	text-shadow: 2px 2px #E0E0E0;
+}
+
+.main .text:hover{
+	color: #A8A8A8;
+	transition: 0.2s;
+	transform: translate(0, -5px);
+	-webkit-transform: translate(0, -5px);
+	cursor: default;
+}
+
+#projects .row{
+	min-height: 200px;
+	height: auto !important;
+}
+
+.row p:before{
+	content: "\bb   ";
+}
+
+b{
+	color: #3ad8ff;
+}
+
+table{
+	width: 800px;
+	text-align: center;
+	transition:0.5s;
+}
+td{
+	width: 50%;
+}
+table:hover{
+	transition:0.75s;
+	-webkit-transform: translate(-400px,0px);
+	transform: translate(-400px,0px);
+}
+
+.project, .experience{
+	float:left;
+	width: 400px;
+	height: auto;
+	overflow: hidden;
+}
+
+.project:first-child, .experience:first-child{
+	margin-right: 95px;
+}
+
+.main p{
+	margin: 0;
+	float: left;
+	width: 400px;
+	font-family: Helvetica;
+	text-align: left;
+	color: #B0B0B0;
+	padding-bottom: 10px;
+}
+
+#about {
+	width: 100%;
+	height: 450px;
+}
+
+#about img{
+	float: left;
+	max-width: 350px;
+	height: auto;
+	border-radius: 50%;
+	border: 1px solid #B8B8B8;
+	margin-left: 50px;
+	-webkit-filter: grayscale(100%);
+	-moz-filter: grayscale(100%);
+	filter: grayscale(100%);
+	transition: 1s;
+}
+
+#about img:hover{
+	transition: 1s;
+	-webkit-filter: grayscale(0%);
+	-moz-filter: grayscale(0%);
+	filter: grayscale(0%);
+}
+
+#about p{
+	position: relative;
+	float: left;
+	width: 450px;
+	margin-left: 30px;
+	font-family: Helvetica;
+	text-align: left;
+	padding-top:40px;
+	font-size: 18px;
+}
+
+#experiences{
+	position: relative;
+	width: 100%;
+	height: auto;
+}
+
+#experiences .row{
+	width: 100%;
+	position: relative;
+	height: 500px;
+}
+
+.experience{
+	height: inherit;
+	width: 400px;
+	margin-bottom: 20px;
+	
+}
+.experience #img-wrapper{
+	position: relative;
+	width: 396px;
+	height: 250px;
+	border: 2px solid #E0E0E0;
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+#experiences img{
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	width: 396px;
+	margin: auto;
+}
+
+#experiences a{
+}
+
+.position{
+	color: #8bdff4;
+	margin-bottom: 20px;
+	height: 10px;
+}
+
+.position em{
+	float: left;
+}
+
+.position div{
+	float: right;
+}
+
+.employer{
+	color: #3ad8ff;
+}
 
 .footer{
-	position: absolute;
-	bottom: 0px;
+	position: relative;
+	height: 20px;
 	font-size: 15px;
 	padding-bottom: 10px;
 	padding-top: 10px;
 	border-top: 2px solid grey;
 	text-align: center;
 	width: 100%;
+	margin-top: 75px;
 }
+
 
 .footer a{
 	text-decoration: none;

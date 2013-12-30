@@ -7,11 +7,10 @@
 	<link rel="stylesheet" type="text/css" href="stylesheet.css">
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script type="text/javascript" src="jscript.js"></script>
+</head>
 <body>
-	<div class="container">
-		
+	<div class="navbar">
 		<ul id="menubar2">
-			<li id="name">Steven Chen</li>
 			<li><a href="#about"><div>About</div></a></li>
 			<li><a href="#projects"><div>Projects</div></a></li>
 			<li><a href="#experiences"><div>Experiences</div></a></li>
@@ -21,8 +20,7 @@
 		</ul>
 
 		<ul id="menubar">
-			<li id="name">Steven Chen</li>
-			<li><a href="#about"><div>About</div></a></li>
+			<li id="first"><a href="#about"><div>About</div></a></li>
 			<li><a href="#projects"><div>Projects</div></a></li>
 			<li><a href="#experiences"><div>Experiences</div></a></li>
 			<li><a href="#skills"><div>Skills</div></a></li>
@@ -30,7 +28,196 @@
 			<li><a href="#contact"><div>Contact</div></a></li>
 		</ul>
 	</div>
+	
+	<div class="main">	
+		
+		<div id="about">
+			<header><div class="text">Steven Chen</div></header>
+			<img src="images/picture.png">
+			<p>
+				Hello, I'm Steven, a student at University of California, Berkeley pursuing 
+				simultaneous degrees in Computer Science and Business Administration (Haas). 
+				I am always opened to learn new tools and technologies.<br><br>
+				
+				<b>Interests:</b> Software Development & Finance<br>
+				<b>Hobbies:</b> Badminton & Videogames<br>
+				<b>Location:</b> Berkeley, CA<br><br><br>
+				<em>&quotThe mind that opens to a new idea never returns to its original size.&quot - </em> Albert Einstein
+			</p>
+		</div>
+		
+		<div id="projects">
+			<header><div class="text">Projects</div></header>
+			
+			<div class="row">
+				<div class="project">
+					<a href="github.com">
+						<table>
+							<tr>
+								<td><h3>2D Convolution</h3></td>
+								<td><h3>Repo on Github</h3></td>
+							</tr>
+						</table>
+					</a>
+							
+					<p>Multiplied a 3-by-3 matrix kernel with an image and store the sum to each pixel to create the 2D convolution image processing effect.</p>
+					<p>Optimized the algorithm with a combination of C, SSE (Streaming SIMD Extentions), OpenMP, and cache blocking to achieve over 60 billion instructions per second (Gflop/s), a huge increase from the original 1 Gflop/s.
+					</p>		
+				</div>
+				<div class="project">
+					<a href="github.com">
+						<table>
+							<tr>
+								<td><h3>Hadoop MapReduce</h3></td>
+								<td><h3>Repo on Github</h3></td>
+							</tr>
+						</table>
+					</a>
+					<p>Learned and implemented MapReduce in Java using the Hadoop framework on the Amazon EC2 servers.</p>
+					<p>Developed 2 Mappers and 2 Reducers to calculate co-occurrence rate of words by finding the distance between target word and other words within a large document.</p>
+					<p>Sorted and outputted the results in descending order.</p>		
+				</div>
 
-	<div class="footer">Copyright &copy 2014 - <a href="Ming_Chen_Resume.pdf" target='_blank'>Steven Chen</a></div>
+			</div>
+			
+			<div class="row">
+				<div class="project">
+					<a href="github.com">
+						<table>
+							<tr>
+								<td><h3>Hangman Solver</h3></td>
+								<td><h3>Repo on Github</h3></td>
+							</tr>
+						</table>
+					</a>
+							
+					<p>Created an AI in Java to solve any Hangman game within 3 errors for Hulu's Programming Challenge.</p>
+					<p>Parsed mystery words from Hulu's designated website, then ran an algorithm with the alphabet frequencies of a large dictionary to determine the best guess.</p>		
+				</div>
+				<div class="project">
+					<a href="github.com">
+						<table>
+							<tr>
+								<td><h3>Network</h3></td>
+								<td><h3>Repo on Github</h3></td>
+							</tr>
+						</table>
+					</a>
+					<p>Made a two player board game in Java, with the objective of forming a connection of chips in the same color without interference of opponent’s chips.</p>
+					<p>Implemented a recursive Depth First Search to determine whether the current board contained a network.</p> 
+					<p>We also utilized mini-max search algorithm and alpha-beta pruning to look for best possible move.</p>		
+				</div>
+
+			</div>
+
+			<div class="row">
+				<div class="project">
+					<a href="github.com">
+						<table>
+							<tr>
+								<td><h3>Mips Processor</h3></td>
+								<td><h3>Repo on Github</h3></td>
+							</tr>
+						</table>
+					</a>
+							
+					<p>Constructed a CPU using Logisim that could read a subset of the Mips Instruction Set Architecture and process the instructions with pipelining.</p>
+					<p>I also build the Arithmetic Logic Unit and Controller to command the CPU.</p>		
+				</div>
+				<div class="project">
+					<a href="github.com">
+						<table>
+							<tr>
+								<td><h3>Personal Website</h3></td>
+								<td><h3>Repo on Github</h3></td>
+							</tr>
+						</table>
+					</a>
+					<p>Designed and implemented the website to share my experiences and projects.</p>
+					<p>Hosted the domain on Github Pages and learned HTML, CSS3, Javascript, jQuery, and Git version control during the process.
+					</p>		
+				</div>
+
+			</div>
+			
+		</div>
+		
+		<div id="experiences">
+			<header><div class="text">Experiences</div></header>
+			<div class="row">
+				<div class="experience">
+					
+					<a href="http://bigideas.berkeley.edu/winners/cashify/" target="_blank"><div id="img-wrapper">
+						<img src="images/cashify.png">
+					</div></a>
+					<div class="employer">Cashify</div>
+					<div class="position">
+						<em>Software Development Intern</em>
+						<div>Jun 2013 - Aug 2013</div>
+					</div>
+					<p>Held discussions with supervisor and other programmers to analyze implementation of games.</p>
+					<p>Pioneered the development of a "whack-a-mole" animated game using HTML, CSS, Javascript, and jQuery that promote financial literacy challenges and train students to become their own financial heroes.</p> 
+
+						
+				</div>
+				<div class="experience">
+					<a href="http://forum.berkeley.edu/" target="_blank"><div id="img-wrapper">
+						<img src="images/bforum.png">
+					</div></a>
+					<div class="employer">The Berkeley Forum</div>
+					<div class="position">
+						<em>Web Developer, Systems & Technology</em>
+						<div>Jan 2013 - May 2013</div>
+					</div>
+					<p>As a club, we organized a panel on contemporary political and economical issues, which included prominent speakers such as the former Secretary of Labor, Robert Reich.</p>
+					<p>Discussed within a group of three on possible designs for the club's website.</p>
+					<p>Built the Forum's website using HTML, CSS, Javascript, and jQuery.</p>
+
+				</div>
+
+			</div>
+			
+			<div class="row">
+				<div class="experience">
+					<a href="http://groups.haas.berkeley.edu/hcs/" target="_blank"><div id="img-wrapper">
+						<img src="images/haas.png">
+					</div></a>
+					<div class="employer">Haas School of Business</div>
+					<div class="position">
+						<em>IT Assistant, ECSM</em>
+						<div>May 2013 - Present</div>
+					</div>
+					<p>Diagnose, troubleshoot, and repair various hardware and software issues on PCs, Macs, mobile devices, and tablets for students, professors, and staff within Haas School of Business.</p>
+					<p>Create new network accounts by cloning operating systems, downloading and updating software, and establishing Haas network permissions.</p> 
+
+						
+				</div>
+				<div class="experience">
+					<a href="http://blc.berkeley.edu/" target="_blank"><div id="img-wrapper">
+						<img src="images/blc.png">
+					</div></a>
+					<div class="employer">Berkeley Language Center</div>
+					<div class="position">
+						<em>Studio Assistant</em>
+						<div>Sep 2012 - May 2013</div>
+					</div>
+					<p>Received positive feedbacks from faculty, guest speakers, and teachers for well-organized video and audio creations.</p>
+					<p>Recorded and digitized over 150 lectures from the Berkeley Language Center in VHS, Masters, and tapes onto the computer using Final Cut Pro and Soundtrack Pro.</p>
+
+				</div>
+
+			</div>
+			
+		</div>
+
+		<div id="experiences">
+			<header><div class="text">Skills</div></header>
+			
+			
+		</div>
+		
+	</div>
+	
+	<div class="footer">Copyright &copy 2014 - <a href="assets/Ming_Chen_Resume.pdf" target='_blank'>Steven Chen</a></div>
 </body>
 </html>
