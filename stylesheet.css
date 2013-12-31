@@ -138,10 +138,10 @@ background-image: -webkit-gradient(
 	padding: 6px;
 }
 
-#menubar li a:hover div, .icon:hover{
+#menubar li a:hover div{
 	transition: 0.25s;
-	transform: translate(0px, -15px);
-	-webkit-transform: translate(0px, -15px);
+	transform: translate(0px, -35px);
+	-webkit-transform: translate(0px, -35px);
 }
 	
 h3, #experiences img{
@@ -198,11 +198,11 @@ h3, .semester{
 	text-shadow: 2px 2px #E0E0E0;
 }
 
-.main .text:hover{
+.main .text:hover, .icon:hover{
 	color: #A8A8A8;
 	transition: 0.2s;
-	transform: translate(0, -5px);
-	-webkit-transform: translate(0, -5px);
+	transform: translate(0, -15px);
+	-webkit-transform: translate(0, -15px);
 	cursor: default;
 }
 
@@ -228,7 +228,7 @@ td{
 	width: 50%;
 }
 table:hover{
-	transition:0.75s;
+	transition:0.5s;
 	-webkit-transform: translate(-400px,0px);
 	transform: translate(-400px,0px);
 }
@@ -355,6 +355,7 @@ table:hover{
 	clear: both;
 	overflow: hidden;
 	margin-bottom: 20px;
+	clear: both;
 }
 
 
@@ -420,8 +421,9 @@ table:hover{
 	-moz-filter: grayscale(100%);
 	filter: grayscale(100%);
 	transition: 0.5s;
-	border: 1px solid black;
+	border: 3px solid #bef2ff;
 	border-radius: 20%; 
+	box-shadow: 1px 5px 10px #c6f4ff;
 }
 
 .icon:hover{
@@ -437,14 +439,19 @@ table:hover{
 	font-size: 15px;
 	padding-bottom: 10px;
 	padding-top: 10px;
-	border-top: 2px solid grey;
+	border-top: 2px solid #B8B8B8;
 	text-align: center;
 	width: 100%;
 	margin-top: 75px;
+	color: #bfbfbf;
 }
 
 
 .footer a{
 	text-decoration: none;
-	color: black;
+	color: #bfbfbf;
+}
+
+.footer a:hover{
+	color: grey;
 }
