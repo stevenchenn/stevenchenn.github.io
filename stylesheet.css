@@ -250,7 +250,7 @@ table:hover{
 	width: inherit;
 	font-family: Helvetica;
 	text-align: left;
-	color: #B0B0B0;
+	color: #919191;
 	padding-bottom: 10px;
 }
 
@@ -378,7 +378,7 @@ table:hover{
 }
 
 #courses .class-name a{
-	color: #B0B0B0;	
+	color: #919191;	
 	font-size: 15px;
 }
 
@@ -444,15 +444,15 @@ table:hover{
 	text-align: center;
 	width: 100%;
 	margin-top: 75px;
-	color: #bfbfbf;
+	color: #919191;
 }
 
 
 .footer a{
 	text-decoration: none;
-	color: #bfbfbf;
+	color: #919191;
 }
 
 .footer a:hover{
-	color: grey;
+	color: black;
 }
