@@ -431,6 +431,7 @@ table:hover{
 	-moz-filter: grayscale(0%);
 	filter: grayscale(0%);
 	transition: 0.75s;
+	cursor: pointer;
 }
 
 .footer{
