@@ -320,7 +320,7 @@ table:hover{
 	position: absolute;
 	top: 0;
 	bottom: 0;
-	width: 396px;
+	width: 385px;
 	margin: auto;
 }
 
@@ -338,7 +338,7 @@ table:hover{
 	float: right;
 }
 
-.employer, .semester{
+.employer, .semester, #top-wrapper{
 	font-size: 20px;
 	color: #3ad8ff;
 	font-family: Helvetica;
@@ -447,7 +447,15 @@ table:hover{
 	color: #919191;
 }
 
+#top-wrapper{	
+	text-align: center;
+	margin-top: 30px;
+}
 
+#top-wrapper a{
+	color: #3ad8ff;
+	text-decoration: none;
+}
 .footer a{
 	text-decoration: none;
 	color: #919191;
