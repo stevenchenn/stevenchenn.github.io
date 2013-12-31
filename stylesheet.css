@@ -133,22 +133,22 @@ background-image: -webkit-gradient(
 	color: black;
 	font-family: Helvetica;
 	font-size: 18px;
-	vertical-align: middle;
+	vertical-align	: middle;
 	height: 100%;
 	padding: 6px;
 }
 
-#menubar li a:hover div{
+#menubar li a:hover div, .icon:hover{
 	transition: 0.25s;
-	transform: translate(0px, -35px);
-	-webkit-transform: translate(0px, -35px);
+	transform: translate(0px, -15px);
+	-webkit-transform: translate(0px, -15px);
 }
 	
 h3, #experiences img{
 	margin: 10px 0px 10px;
 }
 
-h3{
+h3, .semester{
 	font-family: Helvetica;
 	font-size: 22px;
 	text-align: center;
@@ -247,7 +247,7 @@ table:hover{
 .main p{
 	margin: 0;
 	float: left;
-	width: 400px;
+	width: inherit;
 	font-family: Helvetica;
 	text-align: left;
 	color: #B0B0B0;
@@ -324,9 +324,6 @@ table:hover{
 	margin: auto;
 }
 
-#experiences a{
-}
-
 .position{
 	color: #8bdff4;
 	margin-bottom: 20px;
@@ -341,8 +338,97 @@ table:hover{
 	float: right;
 }
 
-.employer{
+.employer, .semester{
+	font-size: 20px;
 	color: #3ad8ff;
+	font-family: Helvetica;
+}
+
+.term{
+	width: 49%;
+	float: left;
+	height: auto;
+}
+
+#courses #row{
+	height: auto;
+	clear: both;
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+
+
+.semester span:first-child{
+	border-bottom: 1px solid #A8A8A8;
+	font-size: 24px;
+}
+
+.semester div:first-child{
+	margin-bottom: 10px;
+}
+
+#courses .class-name:hover a {
+	color: black;
+	font-weight: bold;
+}
+
+#courses a{
+	text-decoration: none;
+}
+
+#courses .class-name a{
+	color: #B0B0B0;	
+	font-size: 15px;
+}
+
+#courses .class-name a b{
+	color: #8bdff4;
+	font-size: 18px;
+	text-decoration: none;
+}
+
+
+#resume, #contact{
+	overflow: hidden;
+}
+
+
+
+#resume p, #contact p{
+	font-size: 25px;
+	width: 100%;
+	text-align: center;
+	position: relative
+}
+
+#resume a{
+	text-decoration: none;
+	color: #3ad8ff;
+}
+
+#icon-wrapper{
+	left: 0;
+	right: 0;
+	margin: auto;
+	text-align: center;
+}
+
+.icon{
+	max-width: 100px;
+	margin: 20px;
+	-webkit-filter: grayscale(100%);
+	-moz-filter: grayscale(100%);
+	filter: grayscale(100%);
+	transition: 0.5s;
+	border: 1px solid black;
+	border-radius: 20%; 
+}
+
+.icon:hover{
+	-webkit-filter: grayscale(0%);
+	-moz-filter: grayscale(0%);
+	filter: grayscale(0%);
+	transition: 0.75s;
 }
 
 .footer{
