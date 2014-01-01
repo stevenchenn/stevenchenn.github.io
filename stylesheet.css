@@ -320,9 +320,12 @@ table:hover{
 	position: absolute;
 	top: 0;
 	bottom: 0;
-	width: 385px;
+	width: auto !important;
+	max-width: 396px;
 	margin: auto;
 }
+
+
 
 .position{
 	color: #61dfff;
