@@ -22,7 +22,7 @@ html, body{
 	width: 100%;
 	height: 30px;
 	border-bottom: 3px ridge white;
-	box-shadow: 0px 3px 15px #414141;
+	box-shadow: 0px 3px 15px #919191;
 	opacity: 0.9;
 	filter:alpha(opacity=90);
 	background-color: white;
@@ -36,11 +36,11 @@ background-image: -webkit-gradient(
 	color-stop(0.35, #BAB8BA),
 	color-stop(0.85, #969496)
 	);
-	background-image: -o-linear-gradient(top, #BAB8BA 35%, #969496 85%);
-	background-image: -moz-linear-gradient(top, #BAB8BA 35%, #969496 85%);
-	background-image: -webkit-linear-gradient(top, #BAB8BA 35%, #969496 85%);
-	background-image: -ms-linear-gradient(top, #BAB8BA 35%, #969496 85%);
-	background-image: linear-gradient(to top, #BAB8BA 35%, #969496 85%);
+	background-image: -o-linear-gradient(top, #BAB8BA 15%, #969496 95%);
+	background-image: -moz-linear-gradient(top, #BAB8BA 15%, #969496 95%);
+	background-image: -webkit-linear-gradient(top, #BAB8BA 15%, #969496 95%);
+	background-image: -ms-linear-gradient(top, #BAB8BA 15%, #969496 95%);
+	background-image: linear-gradient(to top, #BAB8BA 15%, #969496 95%);
 	z-index: 10;
 }
 
@@ -99,7 +99,7 @@ background-image: -webkit-gradient(
 
 #menubar2 li a{
 	text-decoration: underline;
-	color: black;
+	color: #3ad8ff;
 }
 
 
@@ -112,11 +112,11 @@ background-image: -webkit-gradient(
 	color-stop(0.35, #BAB8BA),
 	color-stop(0.85, #969496)
 	);
-	background-image: -o-linear-gradient(top, #BAB8BA 35%, #969496 85%);
-	background-image: -moz-linear-gradient(top, #BAB8BA 35%, #969496 85%);
-	background-image: -webkit-linear-gradient(top, #BAB8BA 35%, #969496 85%);
-	background-image: -ms-linear-gradient(top, #BAB8BA 35%, #969496 85%);
-	background-image: linear-gradient(to top, #BAB8BA 35%, #969496 85%);
+	background-image: -o-linear-gradient(top, #BAB8BA 15%, #969496 95%);
+	background-image: -moz-linear-gradient(top, #BAB8BA 15%, #969496 95%);
+	background-image: -webkit-linear-gradient(top, #BAB8BA 15%, #969496 95%);
+	background-image: -ms-linear-gradient(top, #BAB8BA 15%, #969496 95%);
+	background-image: linear-gradient(to top, #BAB8BA 15%, #969496 95%);
 	text-decoration: none;
 	color: white;
 	font-family: Helvetica;
@@ -130,7 +130,7 @@ background-image: -webkit-gradient(
 #menubar2 li a div{
 	display: block;
 	background-color: white;
-	color: black;
+	color: #3ad8ff;
 	font-family: Helvetica;
 	font-size: 18px;
 	vertical-align	: middle;
