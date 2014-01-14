@@ -278,6 +278,7 @@ table:hover{
 	-moz-filter: grayscale(100%);
 	filter: grayscale(100%);
 	transition: 1s;
+	-webkit-transition: 1s;
 }
 
 #about img:hover{
