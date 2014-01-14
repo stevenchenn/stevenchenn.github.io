@@ -144,6 +144,7 @@ background-image: -webkit-gradient(
 	-webkit-transition: 0.25s;
 	transform: translate(0px, -35px);
 	-webkit-transform: translate(0px, -35px);
+	-moz-transform: translate(0px, -35px);
 }
 	
 h3, #experiences img{
