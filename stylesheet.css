@@ -142,9 +142,9 @@ background-image: -webkit-gradient(
 #menubar li a:hover div{
 	transition: 0.25s;
 	-webkit-transition: 0.25s;
-	transform: translate(0px, -35px);
+	transform: translate(0px, -50px);
 	-webkit-transform: translate(0px, -35px);
-	-moz-transform: translate(0px, -35px);
+	-moz-transform: translate(0px, -50px);
 }
 	
 h3, #experiences img{
