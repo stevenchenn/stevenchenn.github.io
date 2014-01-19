@@ -143,7 +143,7 @@ background-image: -webkit-gradient(
 	transition: 0.25s;
 	-webkit-transition: 0.25s;
 	transform: translate(0px, -50px);
-	-webkit-transform: translate(0px, -35px);
+	-webkit-transform: translate(0px, -50px);
 	-moz-transform: translate(0px, -50px);
 }
 	
