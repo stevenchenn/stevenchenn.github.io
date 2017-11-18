@@ -1,299 +1,299 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="ESPNNews" tvg-id="1.smoothstreams.tv" tvh-chnum="1" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/1.png",ESPNNews
-http://dnaw.smoothstreams.tv:9100/viewms/ch01q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch01q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="ESPN" tvg-id="2.smoothstreams.tv" tvh-chnum="2" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/2.png",ESPN
-http://dnaw.smoothstreams.tv:9100/viewms/ch02q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch02q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="ESPN2" tvg-id="3.smoothstreams.tv" tvh-chnum="3" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/3.png",ESPN2
-http://dnaw.smoothstreams.tv:9100/viewms/ch03q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch03q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="ESPNU" tvg-id="4.smoothstreams.tv" tvh-chnum="4" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/4.png",ESPNU
-http://dnaw.smoothstreams.tv:9100/viewms/ch04q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch04q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="FS1" tvg-id="5.smoothstreams.tv" tvh-chnum="5" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/5.png",FS1
-http://dnaw.smoothstreams.tv:9100/viewms/ch05q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch05q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="FS2" tvg-id="6.smoothstreams.tv" tvh-chnum="6" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/6.png",FS2
-http://dnaw.smoothstreams.tv:9100/viewms/ch06q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch06q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="NFL Network" tvg-id="7.smoothstreams.tv" tvh-chnum="7" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/7.png",NFL Network
-http://dnaw.smoothstreams.tv:9100/viewms/ch07q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch07q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="NBA TV" tvg-id="8.smoothstreams.tv" tvh-chnum="8" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/8.png",NBA TV
-http://dnaw.smoothstreams.tv:9100/viewms/ch08q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch08q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="MLB Network" tvg-id="9.smoothstreams.tv" tvh-chnum="9" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/9.png",MLB Network
-http://dnaw.smoothstreams.tv:9100/viewms/ch09q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch09q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="NHL Network" tvg-id="10.smoothstreams.tv" tvh-chnum="10" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/10.png",NHL Network
-http://dnaw.smoothstreams.tv:9100/viewms/ch10q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch10q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="NBC SN" tvg-id="11.smoothstreams.tv" tvh-chnum="11" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/11.png",NBC SN
-http://dnaw.smoothstreams.tv:9100/viewms/ch11q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch11q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Golf Channel" tvg-id="12.smoothstreams.tv" tvh-chnum="12" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/12.png",Golf Channel
-http://dnaw.smoothstreams.tv:9100/viewms/ch12q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch12q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Tennis Channel" tvg-id="13.smoothstreams.tv" tvh-chnum="13" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/13.png",Tennis Channel
-http://dnaw.smoothstreams.tv:9100/viewms/ch13q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch13q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="CBS SN" tvg-id="14.smoothstreams.tv" tvh-chnum="14" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/14.png",CBS SN
-http://dnaw.smoothstreams.tv:9100/viewms/ch14q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch14q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Fight Network" tvg-id="15.smoothstreams.tv" tvh-chnum="15" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/15.png",Fight Network
-http://dnaw.smoothstreams.tv:9100/viewms/ch15q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch15q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="WWE Network" tvg-id="16.smoothstreams.tv" tvh-chnum="16" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/16.png",WWE Network
-http://dnaw.smoothstreams.tv:9100/viewms/ch16q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch16q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Sportsnet World" tvg-id="17.smoothstreams.tv" tvh-chnum="17" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/17.png",Sportsnet World
-http://dnaw.smoothstreams.tv:9100/viewms/ch17q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch17q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Sportsnet360" tvg-id="18.smoothstreams.tv" tvh-chnum="18" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/18.png",Sportsnet360
-http://dnaw.smoothstreams.tv:9100/viewms/ch18q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch18q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Sportsnet Ontario" tvg-id="19.smoothstreams.tv" tvh-chnum="19" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/19.png",Sportsnet Ontario
-http://dnaw.smoothstreams.tv:9100/viewms/ch19q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch19q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="SNET1" tvg-id="20.smoothstreams.tv" tvh-chnum="20" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/20.png",SNET1
-http://dnaw.smoothstreams.tv:9100/viewms/ch20q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch20q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="TSN" tvg-id="21.smoothstreams.tv" tvh-chnum="21" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/21.png",TSN
-http://dnaw.smoothstreams.tv:9100/viewms/ch21q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch21q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Univision Deportes" tvg-id="22.smoothstreams.tv" tvh-chnum="22" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/22.png",Univision Deportes
-http://dnaw.smoothstreams.tv:9100/viewms/ch22q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch22q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="ESPN Deportes" tvg-id="23.smoothstreams.tv" tvh-chnum="23" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/23.png",ESPN Deportes
-http://dnaw.smoothstreams.tv:9100/viewms/ch23q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch23q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Comedy Central" tvg-id="24.smoothstreams.tv" tvh-chnum="24" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/24.png",Comedy Central
-http://dnaw.smoothstreams.tv:9100/viewms/ch24q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch24q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Spike" tvg-id="25.smoothstreams.tv" tvh-chnum="25" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/25.png",Spike
-http://dnaw.smoothstreams.tv:9100/viewms/ch25q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch25q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="USA" tvg-id="26.smoothstreams.tv" tvh-chnum="26" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/26.png",USA
-http://dnaw.smoothstreams.tv:9100/viewms/ch26q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch26q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="A&amp;E" tvg-id="27.smoothstreams.tv" tvh-chnum="27" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/27.png",A&amp;E
-http://dnaw.smoothstreams.tv:9100/viewms/ch27q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch27q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="TBS" tvg-id="28.smoothstreams.tv" tvh-chnum="28" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/28.png",TBS
-http://dnaw.smoothstreams.tv:9100/viewms/ch28q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch28q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="TNT" tvg-id="29.smoothstreams.tv" tvh-chnum="29" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/29.png",TNT
-http://dnaw.smoothstreams.tv:9100/viewms/ch29q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch29q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="SyFy" tvg-id="30.smoothstreams.tv" tvh-chnum="30" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/30.png",SyFy
-http://dnaw.smoothstreams.tv:9100/viewms/ch30q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch30q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-id="31.smoothstreams.tv" tvh-chnum="31" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/31.png",Cartoon Network
-http://dnaw.smoothstreams.tv:9100/viewms/ch31q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch31q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="HGTV" tvg-id="32.smoothstreams.tv" tvh-chnum="32" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/32.png",HGTV
-http://dnaw.smoothstreams.tv:9100/viewms/ch32q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch32q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="CNN" tvg-id="33.smoothstreams.tv" tvh-chnum="33" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/33.png",CNN
-http://dnaw.smoothstreams.tv:9100/viewms/ch33q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch33q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="NBC" tvg-id="34.smoothstreams.tv" tvh-chnum="34" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/34.png",NBC
-http://dnaw.smoothstreams.tv:9100/viewms/ch34q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch34q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="CBS" tvg-id="35.smoothstreams.tv" tvh-chnum="35" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/35.png",CBS
-http://dnaw.smoothstreams.tv:9100/viewms/ch35q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch35q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="ABC" tvg-id="36.smoothstreams.tv" tvh-chnum="36" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/36.png",ABC
-http://dnaw.smoothstreams.tv:9100/viewms/ch36q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch36q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="FOX" tvg-id="37.smoothstreams.tv" tvh-chnum="37" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/37.png",FOX
-http://dnaw.smoothstreams.tv:9100/viewms/ch37q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch37q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Viceland" tvg-id="38.smoothstreams.tv" tvh-chnum="38" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/38.png",Viceland
-http://dnaw.smoothstreams.tv:9100/viewms/ch38q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch38q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="CNBC" tvg-id="39.smoothstreams.tv" tvh-chnum="39" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/39.png",CNBC
-http://dnaw.smoothstreams.tv:9100/viewms/ch39q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch39q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="FOX News" tvg-id="40.smoothstreams.tv" tvh-chnum="40" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/40.png",FOX News
-http://dnaw.smoothstreams.tv:9100/viewms/ch40q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch40q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="History" tvg-id="41.smoothstreams.tv" tvh-chnum="41" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/41.png",History
-http://dnaw.smoothstreams.tv:9100/viewms/ch41q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch41q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Discovery" tvg-id="42.smoothstreams.tv" tvh-chnum="42" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/42.png",Discovery
-http://dnaw.smoothstreams.tv:9100/viewms/ch42q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch42q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Nat Geo" tvg-id="43.smoothstreams.tv" tvh-chnum="43" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/43.png",Nat Geo
-http://dnaw.smoothstreams.tv:9100/viewms/ch43q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch43q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="FX" tvg-id="44.smoothstreams.tv" tvh-chnum="44" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/44.png",FX
-http://dnaw.smoothstreams.tv:9100/viewms/ch44q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch44q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="FXX" tvg-id="45.smoothstreams.tv" tvh-chnum="45" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/45.png",FXX
-http://dnaw.smoothstreams.tv:9100/viewms/ch45q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch45q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="BeIN Sport US" tvg-id="46.smoothstreams.tv" tvh-chnum="46" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/46.png",BeIN Sport US
-http://dnaw.smoothstreams.tv:9100/viewms/ch46q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch46q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="AMC" tvg-id="47.smoothstreams.tv" tvh-chnum="47" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/47.png",AMC
-http://dnaw.smoothstreams.tv:9100/viewms/ch47q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch47q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="HBO" tvg-id="48.smoothstreams.tv" tvh-chnum="48" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/48.png",HBO
-http://dnaw.smoothstreams.tv:9100/viewms/ch48q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch48q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="HBO Comedy" tvg-id="49.smoothstreams.tv" tvh-chnum="49" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/49.png",HBO Comedy
-http://dnaw.smoothstreams.tv:9100/viewms/ch49q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch49q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="HBO Signature" tvg-id="50.smoothstreams.tv" tvh-chnum="50" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/50.png",HBO Signature
-http://dnaw.smoothstreams.tv:9100/viewms/ch50q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch50q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="HBO Zone" tvg-id="51.smoothstreams.tv" tvh-chnum="51" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/51.png",HBO Zone
-http://dnaw.smoothstreams.tv:9100/viewms/ch51q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch51q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Showtime East" tvg-id="52.smoothstreams.tv" tvh-chnum="52" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/52.png",Showtime East
-http://dnaw.smoothstreams.tv:9100/viewms/ch52q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch52q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="ActionMax HD East" tvg-id="53.smoothstreams.tv" tvh-chnum="53" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/53.png",ActionMax HD East
-http://dnaw.smoothstreams.tv:9100/viewms/ch53q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch53q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Cinemax Moremax" tvg-id="54.smoothstreams.tv" tvh-chnum="54" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/54.png",Cinemax Moremax
-http://dnaw.smoothstreams.tv:9100/viewms/ch54q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch54q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Starz Cinema" tvg-id="55.smoothstreams.tv" tvh-chnum="55" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/55.png",Starz Cinema
-http://dnaw.smoothstreams.tv:9100/viewms/ch55q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch55q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Starz East" tvg-id="56.smoothstreams.tv" tvh-chnum="56" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/56.png",Starz East
-http://dnaw.smoothstreams.tv:9100/viewms/ch56q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch56q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Starz Encore" tvg-id="57.smoothstreams.tv" tvh-chnum="57" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/57.png",Starz Encore
-http://dnaw.smoothstreams.tv:9100/viewms/ch57q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch57q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Investigation Discovery" tvg-id="58.smoothstreams.tv" tvh-chnum="58" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/58.png",Investigation Discovery
-http://dnaw.smoothstreams.tv:9100/viewms/ch58q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch58q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Cinemax" tvg-id="59.smoothstreams.tv" tvh-chnum="59" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/59.png",Cinemax
-http://dnaw.smoothstreams.tv:9100/viewms/ch59q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch59q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Cinemax 5 Star" tvg-id="60.smoothstreams.tv" tvh-chnum="60" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/60.png",Cinemax 5 Star
-http://dnaw.smoothstreams.tv:9100/viewms/ch60q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
-#EXTINF:-1 tvg-name="Ch 61" tvg-id="61.smoothstreams.tv" tvh-chnum="61" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/61.png",Ch 61
-http://dnaw.smoothstreams.tv:9100/viewms/ch61q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch60q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
+#EXTINF:-1 tvg-name="SNETWORLD + HD1" tvg-id="61.smoothstreams.tv" tvh-chnum="61" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/61.png",SNETWORLD + HD1
+http://dnaw.smoothstreams.tv:9100/viewms/ch61q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 62" tvg-id="62.smoothstreams.tv" tvh-chnum="62" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/62.png",Ch 62
-http://dnaw.smoothstreams.tv:9100/viewms/ch62q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
-#EXTINF:-1 tvg-name="Ch 63" tvg-id="63.smoothstreams.tv" tvh-chnum="63" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/63.png",Ch 63
-http://dnaw.smoothstreams.tv:9100/viewms/ch63q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
-#EXTINF:-1 tvg-name="Ch 64" tvg-id="64.smoothstreams.tv" tvh-chnum="64" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/64.png",Ch 64
-http://dnaw.smoothstreams.tv:9100/viewms/ch64q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch62q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
+#EXTINF:-1 tvg-name="SNETWORLD + HD3" tvg-id="63.smoothstreams.tv" tvh-chnum="63" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/63.png",SNETWORLD + HD3
+http://dnaw.smoothstreams.tv:9100/viewms/ch63q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
+#EXTINF:-1 tvg-name="SNETWORLD + HD4" tvg-id="64.smoothstreams.tv" tvh-chnum="64" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/64.png",SNETWORLD + HD4
+http://dnaw.smoothstreams.tv:9100/viewms/ch64q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 65" tvg-id="65.smoothstreams.tv" tvh-chnum="65" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/65.png",Ch 65
-http://dnaw.smoothstreams.tv:9100/viewms/ch65q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch65q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 66" tvg-id="66.smoothstreams.tv" tvh-chnum="66" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/66.png",Ch 66
-http://dnaw.smoothstreams.tv:9100/viewms/ch66q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch66q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 67" tvg-id="67.smoothstreams.tv" tvh-chnum="67" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/67.png",Ch 67
-http://dnaw.smoothstreams.tv:9100/viewms/ch67q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch67q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 68" tvg-id="68.smoothstreams.tv" tvh-chnum="68" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/68.png",Ch 68
-http://dnaw.smoothstreams.tv:9100/viewms/ch68q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch68q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 69" tvg-id="69.smoothstreams.tv" tvh-chnum="69" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/69.png",Ch 69
-http://dnaw.smoothstreams.tv:9100/viewms/ch69q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch69q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 70" tvg-id="70.smoothstreams.tv" tvh-chnum="70" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/70.png",Ch 70
-http://dnaw.smoothstreams.tv:9100/viewms/ch70q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch70q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 71" tvg-id="71.smoothstreams.tv" tvh-chnum="71" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/71.png",Ch 71
-http://dnaw.smoothstreams.tv:9100/viewms/ch71q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch71q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 72" tvg-id="72.smoothstreams.tv" tvh-chnum="72" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/72.png",Ch 72
-http://dnaw.smoothstreams.tv:9100/viewms/ch72q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch72q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Spectrum Sportsnet" tvg-id="73.smoothstreams.tv" tvh-chnum="73" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/73.png",Spectrum Sportsnet
-http://dnaw.smoothstreams.tv:9100/viewms/ch73q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch73q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="MMA-TV 01" tvg-id="74.smoothstreams.tv" tvh-chnum="74" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/74.png",MMA-TV 01
-http://dnaw.smoothstreams.tv:9100/viewms/ch74q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch74q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="MMA-TV 02" tvg-id="75.smoothstreams.tv" tvh-chnum="75" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/75.png",MMA-TV 02
-http://dnaw.smoothstreams.tv:9100/viewms/ch75q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch75q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Channel 76" tvg-id="76.smoothstreams.tv" tvh-chnum="76" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/76.png",Channel 76
-http://dnaw.smoothstreams.tv:9100/viewms/ch76q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch76q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Channel 77" tvg-id="77.smoothstreams.tv" tvh-chnum="77" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/77.png",Channel 77
-http://dnaw.smoothstreams.tv:9100/viewms/ch77q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
-#EXTINF:-1 tvg-name="Ch 78" tvg-id="78.smoothstreams.tv" tvh-chnum="78" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/78.png",Ch 78
-http://dnaw.smoothstreams.tv:9100/viewms/ch78q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
-#EXTINF:-1 tvg-name="Ch 79" tvg-id="79.smoothstreams.tv" tvh-chnum="79" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/79.png",Ch 79
-http://dnaw.smoothstreams.tv:9100/viewms/ch79q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch77q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
+#EXTINF:-1 tvg-name="Channel 78" tvg-id="78.smoothstreams.tv" tvh-chnum="78" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/78.png",Channel 78
+http://dnaw.smoothstreams.tv:9100/viewms/ch78q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
+#EXTINF:-1 tvg-name="Channel 79" tvg-id="79.smoothstreams.tv" tvh-chnum="79" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/79.png",Channel 79
+http://dnaw.smoothstreams.tv:9100/viewms/ch79q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 80" tvg-id="80.smoothstreams.tv" tvh-chnum="80" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/80.png",Ch 80
-http://dnaw.smoothstreams.tv:9100/viewms/ch80q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch80q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 81" tvg-id="81.smoothstreams.tv" tvh-chnum="81" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/81.png",Ch 81
-http://dnaw.smoothstreams.tv:9100/viewms/ch81q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch81q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 82" tvg-id="82.smoothstreams.tv" tvh-chnum="82" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/82.png",Ch 82
-http://dnaw.smoothstreams.tv:9100/viewms/ch82q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch82q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 83" tvg-id="83.smoothstreams.tv" tvh-chnum="83" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/83.png",Ch 83
-http://dnaw.smoothstreams.tv:9100/viewms/ch83q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch83q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 84" tvg-id="84.smoothstreams.tv" tvh-chnum="84" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/84.png",Ch 84
-http://dnaw.smoothstreams.tv:9100/viewms/ch84q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch84q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 85" tvg-id="85.smoothstreams.tv" tvh-chnum="85" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/85.png",Ch 85
-http://dnaw.smoothstreams.tv:9100/viewms/ch85q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch85q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 86" tvg-id="86.smoothstreams.tv" tvh-chnum="86" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/86.png",Ch 86
-http://dnaw.smoothstreams.tv:9100/viewms/ch86q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch86q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 87" tvg-id="87.smoothstreams.tv" tvh-chnum="87" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/87.png",Ch 87
-http://dnaw.smoothstreams.tv:9100/viewms/ch87q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch87q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Euro Sat/DE" tvg-id="88.smoothstreams.tv" tvh-chnum="88" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/88.png",Euro Sat/DE
-http://dnaw.smoothstreams.tv:9100/viewms/ch88q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch88q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name=" 	Euro Sat/DE" tvg-id="89.smoothstreams.tv" tvh-chnum="89" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/89.png", 	Euro Sat/DE
-http://dnaw.smoothstreams.tv:9100/viewms/ch89q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
-#EXTINF:-1 tvg-name="Ch 90" tvg-id="90.smoothstreams.tv" tvh-chnum="90" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/90.png",Ch 90
-http://dnaw.smoothstreams.tv:9100/viewms/ch90q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch89q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
+#EXTINF:-1 tvg-name=" 	NL/EU" tvg-id="90.smoothstreams.tv" tvh-chnum="90" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/90.png", 	NL/EU
+http://dnaw.smoothstreams.tv:9100/viewms/ch90q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name=" 	Euro Sat" tvg-id="91.smoothstreams.tv" tvh-chnum="91" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/91.png", 	Euro Sat
-http://dnaw.smoothstreams.tv:9100/viewms/ch91q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch91q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name=" 	Euro Sat" tvg-id="92.smoothstreams.tv" tvh-chnum="92" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/92.png", 	Euro Sat
-http://dnaw.smoothstreams.tv:9100/viewms/ch92q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch92q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="UK" tvg-id="93.smoothstreams.tv" tvh-chnum="93" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/93.png",UK
-http://dnaw.smoothstreams.tv:9100/viewms/ch93q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch93q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name=" 	Euro Sat" tvg-id="94.smoothstreams.tv" tvh-chnum="94" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/94.png", 	Euro Sat
-http://dnaw.smoothstreams.tv:9100/viewms/ch94q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch94q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="NL" tvg-id="95.smoothstreams.tv" tvh-chnum="95" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/95.png",NL
-http://dnaw.smoothstreams.tv:9100/viewms/ch95q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch95q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="NL" tvg-id="96.smoothstreams.tv" tvh-chnum="96" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/96.png",NL
-http://dnaw.smoothstreams.tv:9100/viewms/ch96q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch96q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="UK" tvg-id="97.smoothstreams.tv" tvh-chnum="97" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/97.png",UK
-http://dnaw.smoothstreams.tv:9100/viewms/ch97q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch97q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 98" tvg-id="98.smoothstreams.tv" tvh-chnum="98" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/98.png",Ch 98
-http://dnaw.smoothstreams.tv:9100/viewms/ch98q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch98q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="EU" tvg-id="99.smoothstreams.tv" tvh-chnum="99" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/99.png",EU
-http://dnaw.smoothstreams.tv:9100/viewms/ch99q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch99q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 100" tvg-id="100.smoothstreams.tv" tvh-chnum="100" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/100.png",Ch 100
-http://dnaw.smoothstreams.tv:9100/viewms/ch100q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch100q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 101" tvg-id="101.smoothstreams.tv" tvh-chnum="101" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/101.png",Ch 101
-http://dnaw.smoothstreams.tv:9100/viewms/ch101q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch101q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 102" tvg-id="102.smoothstreams.tv" tvh-chnum="102" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/102.png",Ch 102
-http://dnaw.smoothstreams.tv:9100/viewms/ch102q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch102q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 103" tvg-id="103.smoothstreams.tv" tvh-chnum="103" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/103.png",Ch 103
-http://dnaw.smoothstreams.tv:9100/viewms/ch103q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch103q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 104" tvg-id="104.smoothstreams.tv" tvh-chnum="104" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/104.png",Ch 104
-http://dnaw.smoothstreams.tv:9100/viewms/ch104q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch104q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="EuroSport 1" tvg-id="105.smoothstreams.tv" tvh-chnum="105" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/105.png",EuroSport 1
-http://dnaw.smoothstreams.tv:9100/viewms/ch105q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch105q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="EuroSport 2" tvg-id="106.smoothstreams.tv" tvh-chnum="106" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/106.png",EuroSport 2
-http://dnaw.smoothstreams.tv:9100/viewms/ch106q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch106q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Eir Sport 2" tvg-id="107.smoothstreams.tv" tvh-chnum="107" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/107.png",Eir Sport 2
-http://dnaw.smoothstreams.tv:9100/viewms/ch107q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch107q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="BT Sport 1 HD" tvg-id="108.smoothstreams.tv" tvh-chnum="108" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/108.png",BT Sport 1 HD
-http://dnaw.smoothstreams.tv:9100/viewms/ch108q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch108q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="BT Sport 2 HD" tvg-id="109.smoothstreams.tv" tvh-chnum="109" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/109.png",BT Sport 2 HD
-http://dnaw.smoothstreams.tv:9100/viewms/ch109q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch109q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="BT Sport 3 HD" tvg-id="110.smoothstreams.tv" tvh-chnum="110" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/110.png",BT Sport 3 HD
-http://dnaw.smoothstreams.tv:9100/viewms/ch110q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
-#EXTINF:-1 tvg-name="Ch 111" tvg-id="111.smoothstreams.tv" tvh-chnum="111" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/111.png",Ch 111
-http://dnaw.smoothstreams.tv:9100/viewms/ch111q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch110q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
+#EXTINF:-1 tvg-name="BT Sport ESPN HD" tvg-id="111.smoothstreams.tv" tvh-chnum="111" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/111.png",BT Sport ESPN HD
+http://dnaw.smoothstreams.tv:9100/viewms/ch111q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 112" tvg-id="112.smoothstreams.tv" tvh-chnum="112" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/112.png",Ch 112
-http://dnaw.smoothstreams.tv:9100/viewms/ch112q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch112q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 113" tvg-id="113.smoothstreams.tv" tvh-chnum="113" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/113.png",Ch 113
-http://dnaw.smoothstreams.tv:9100/viewms/ch113q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch113q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 114" tvg-id="114.smoothstreams.tv" tvh-chnum="114" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/114.png",Ch 114
-http://dnaw.smoothstreams.tv:9100/viewms/ch114q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch114q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 115" tvg-id="115.smoothstreams.tv" tvh-chnum="115" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/115.png",Ch 115
-http://dnaw.smoothstreams.tv:9100/viewms/ch115q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch115q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 116" tvg-id="116.smoothstreams.tv" tvh-chnum="116" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/116.png",Ch 116
-http://dnaw.smoothstreams.tv:9100/viewms/ch116q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch116q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 117" tvg-id="117.smoothstreams.tv" tvh-chnum="117" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/117.png",Ch 117
-http://dnaw.smoothstreams.tv:9100/viewms/ch117q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch117q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 118" tvg-id="118.smoothstreams.tv" tvh-chnum="118" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/118.png",Ch 118
-http://dnaw.smoothstreams.tv:9100/viewms/ch118q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch118q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 119" tvg-id="119.smoothstreams.tv" tvh-chnum="119" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/119.png",Ch 119
-http://dnaw.smoothstreams.tv:9100/viewms/ch119q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch119q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 120" tvg-id="120.smoothstreams.tv" tvh-chnum="120" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/120.png",Ch 120
-http://dnaw.smoothstreams.tv:9100/viewms/ch120q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch120q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 121" tvg-id="121.smoothstreams.tv" tvh-chnum="121" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/121.png",Ch 121
-http://dnaw.smoothstreams.tv:9100/viewms/ch121q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch121q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Racing UK " tvg-id="122.smoothstreams.tv" tvh-chnum="122" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/122.png",Racing UK 
-http://dnaw.smoothstreams.tv:9100/viewms/ch122q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch122q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 123" tvg-id="123.smoothstreams.tv" tvh-chnum="123" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/123.png",Ch 123
-http://dnaw.smoothstreams.tv:9100/viewms/ch123q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch123q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 124" tvg-id="124.smoothstreams.tv" tvh-chnum="124" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/124.png",Ch 124
-http://dnaw.smoothstreams.tv:9100/viewms/ch124q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch124q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 125" tvg-id="125.smoothstreams.tv" tvh-chnum="125" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/125.png",Ch 125
-http://dnaw.smoothstreams.tv:9100/viewms/ch125q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch125q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 126" tvg-id="126.smoothstreams.tv" tvh-chnum="126" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/126.png",Ch 126
-http://dnaw.smoothstreams.tv:9100/viewms/ch126q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch126q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 127" tvg-id="127.smoothstreams.tv" tvh-chnum="127" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/127.png",Ch 127
-http://dnaw.smoothstreams.tv:9100/viewms/ch127q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch127q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 128" tvg-id="128.smoothstreams.tv" tvh-chnum="128" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/128.png",Ch 128
-http://dnaw.smoothstreams.tv:9100/viewms/ch128q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch128q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 129" tvg-id="129.smoothstreams.tv" tvh-chnum="129" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/129.png",Ch 129
-http://dnaw.smoothstreams.tv:9100/viewms/ch129q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch129q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 130" tvg-id="130.smoothstreams.tv" tvh-chnum="130" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/130.png",Ch 130
-http://dnaw.smoothstreams.tv:9100/viewms/ch130q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch130q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 131" tvg-id="131.smoothstreams.tv" tvh-chnum="131" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/131.png",Ch 131
-http://dnaw.smoothstreams.tv:9100/viewms/ch131q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch131q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 132" tvg-id="132.smoothstreams.tv" tvh-chnum="132" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/132.png",Ch 132
-http://dnaw.smoothstreams.tv:9100/viewms/ch132q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch132q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 133" tvg-id="133.smoothstreams.tv" tvh-chnum="133" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/133.png",Ch 133
-http://dnaw.smoothstreams.tv:9100/viewms/ch133q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch133q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name=" 	Channel 134" tvg-id="134.smoothstreams.tv" tvh-chnum="134" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/134.png", 	Channel 134
-http://dnaw.smoothstreams.tv:9100/viewms/ch134q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch134q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name=" 	Channel 135" tvg-id="135.smoothstreams.tv" tvh-chnum="135" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/135.png", 	Channel 135
-http://dnaw.smoothstreams.tv:9100/viewms/ch135q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch135q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name=" 	Channel 136" tvg-id="136.smoothstreams.tv" tvh-chnum="136" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/136.png", 	Channel 136
-http://dnaw.smoothstreams.tv:9100/viewms/ch136q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch136q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 137" tvg-id="137.smoothstreams.tv" tvh-chnum="137" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/137.png",Ch 137
-http://dnaw.smoothstreams.tv:9100/viewms/ch137q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch137q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 138" tvg-id="138.smoothstreams.tv" tvh-chnum="138" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/138.png",Ch 138
-http://dnaw.smoothstreams.tv:9100/viewms/ch138q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch138q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 139" tvg-id="139.smoothstreams.tv" tvh-chnum="139" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/139.png",Ch 139
-http://dnaw.smoothstreams.tv:9100/viewms/ch139q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch139q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 140" tvg-id="140.smoothstreams.tv" tvh-chnum="140" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/140.png",Ch 140
-http://dnaw.smoothstreams.tv:9100/viewms/ch140q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch140q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 141" tvg-id="141.smoothstreams.tv" tvh-chnum="141" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/141.png",Ch 141
-http://dnaw.smoothstreams.tv:9100/viewms/ch141q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch141q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 142" tvg-id="142.smoothstreams.tv" tvh-chnum="142" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/142.png",Ch 142
-http://dnaw.smoothstreams.tv:9100/viewms/ch142q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch142q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 143" tvg-id="143.smoothstreams.tv" tvh-chnum="143" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/143.png",Ch 143
-http://dnaw.smoothstreams.tv:9100/viewms/ch143q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch143q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 144" tvg-id="144.smoothstreams.tv" tvh-chnum="144" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/144.png",Ch 144
-http://dnaw.smoothstreams.tv:9100/viewms/ch144q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch144q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 145" tvg-id="145.smoothstreams.tv" tvh-chnum="145" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/145.png",Ch 145
-http://dnaw.smoothstreams.tv:9100/viewms/ch145q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch145q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 146" tvg-id="146.smoothstreams.tv" tvh-chnum="146" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/146.png",Ch 146
-http://dnaw.smoothstreams.tv:9100/viewms/ch146q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch146q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
 #EXTINF:-1 tvg-name="Ch 147" tvg-id="147.smoothstreams.tv" tvh-chnum="147" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/147.png",Ch 147
-http://dnaw.smoothstreams.tv:9100/viewms/ch147q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
-#EXTINF:-1 tvg-name="Ch 148" tvg-id="148.smoothstreams.tv" tvh-chnum="148" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/148.png",Ch 148
-http://dnaw.smoothstreams.tv:9100/viewms/ch148q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
-#EXTINF:-1 tvg-name="Ch 149" tvg-id="149.smoothstreams.tv" tvh-chnum="149" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/149.png",Ch 149
-http://dnaw.smoothstreams.tv:9100/viewms/ch149q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNyAxMjo1MTo1OSBBTSZoYXNoX3ZhbHVlPW1nVm83VUhuL3NPNXVuNVQwbmJpaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPXZpZXdtcy0yOTgxMQ====
+http://dnaw.smoothstreams.tv:9100/viewms/ch147q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
+#EXTINF:-1 tvg-name="Channel 148" tvg-id="148.smoothstreams.tv" tvh-chnum="148" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/148.png",Channel 148
+http://dnaw.smoothstreams.tv:9100/viewms/ch148q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
+#EXTINF:-1 tvg-name="Channel 149" tvg-id="149.smoothstreams.tv" tvh-chnum="149" tvg-logo="http://guide.smoothstreams.tv/assets/images/channels/149.png",Channel 149
+http://dnaw.smoothstreams.tv:9100/viewms/ch149q1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNyAxOjMxOjAzIEFNJmhhc2hfdmFsdWU9TXNwNmZISkRoWnRNazZVR0lmbTBwQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9dmlld21zLTI5ODEx==
